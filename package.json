@@ -1,0 +1,30 @@
+{
+  "name": "number-formatter",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/havster09/number-formatter.git"
+  },
+  "keywords": [
+    "test",
+    "publish"
+  ],
+  "author": "haven ramos <havster09@gmail.com> (http://havenramos.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/havster09/number-formatter/issues"
+  },
+  "homepage": "https://github.com/havster09/number-formatter#readme",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0"
+  }
+}
